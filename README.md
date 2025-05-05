@@ -2,4 +2,4 @@
 Classification model for predicting which customers will be retained to the next year
 ## 📄 Presentation
 
-[Click here to view the presentation](./presentation.pdf)
+[Click here to view the presentation](./Presentation.pdf)
